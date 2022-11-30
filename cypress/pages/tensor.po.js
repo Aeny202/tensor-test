@@ -13,6 +13,8 @@ export const tensorPage = {
   nodes: {
     layer: '[class="plus-minus-neurons"]',
     removeButton: 'button:contains("remove")',
+    network: '[id="network"]',
+    node: 'div[id|="canvas"]',
   },
   topControls: {
     learningRateSelector: '[id="learningRate"]',
