@@ -14,5 +14,10 @@
   "dependencies": {
     "cypress": "^11.2.0",
     "cypress-wait-until": "^1.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-cypress": "^2.12.1"
   }
 }
